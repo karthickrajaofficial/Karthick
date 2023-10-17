@@ -80,6 +80,13 @@ I have experience with both front-end and back-end technologies, and I'm always 
 - Deployed the application to a test server.
 - URL LINK: [goals-app-frontend.onrender.com](https://goals-app-frontend.onrender.com)
 
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthickrajaofficial&show_icons=true&locale=en&layout=compact" alt="karthickrajaofficial" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthickrajaofficial&show_icons=true&locale=en" alt="karthickrajaofficial" /></p>
+
+
+
 ## 🙏 Thank You
 
 Thanks for visiting my GitHub profile! I appreciate your time and interest. Feel free to connect with me on LinkedIn or explore my projects on GitHub. If you have any questions or want to collaborate, don't hesitate to reach out. 😄
