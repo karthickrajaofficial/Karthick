@@ -1,54 +1,68 @@
+<h1 align="center">Hi 👋, I'm Karthick</h1>
+<h3 align="center">A passionate MERN stack developer from India</h3>
+
+
+
+- 🔭 I’m currently working on **Threads clone**
+
+- 🌱 I’m currently learning **MERN Stack, NEXTJS, etc**
+
+I'm a Full Stack Developer based in India with a passion for creating web applications and solving problems with code. 
+I have experience with both front-end and back-end technologies, and I'm always eager to learn and grow in this ever-evolving field.
+
 <p align="center">
-  <img src="https://your-image-url-here.com" alt="Karthick - Full Stack Developer">
+  - 📫 How to reach me <br>
+  - 📧 Email: [karthickrajaofficial1@gmail.com](mailto:karthickrajaofficial1@gmail.com) <br>
+  - 📱 LinkedIn: [linkedin.com/in/karthickraja01](https://www.linkedin.com/in/karthickraja01) <br>
+  - 🌐 GitHub: [github.com/karthickrajaofficial](https://github.com/karthickrajaofficial)
 </p>
-
-# Hi, I'm Karthick 👋
-
-I'm a Full Stack Developer based in India with a passion for creating web applications and solving problems with code. I have experience with both front-end and back-end technologies, and I'm always eager to learn and grow in this ever-evolving field.
-
-## 📧 Contact Information
-
-- 📧 Email: [karthickrajaofficial1@gmail.com](mailto:karthickrajaofficial1@gmail.com)
-- 📱 LinkedIn: [linkedin.com/in/karthickraja01](https://www.linkedin.com/in/karthickraja01)
-- ☎️ Call me: +91 9360988787
-- 🌐 GitHub: [github.com/karthickrajaofficial](https://github.com/karthickrajaofficial)
 
 ## 🔧 Technical Skills
 
 <p align="center">
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://your-react-logo-url-here.com" alt="React" width="50" height="50">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://your-js-logo-url-here.com" alt="JavaScript" width="50" height="50">
-  </a>
-  <a href="https://www.w3.org/TR/html52/" target="_blank">
-    <img src="https://your-html-logo-url-here.com" alt="HTML" width="50" height="50">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://your-css-logo-url-here.com" alt="CSS" width="50" height="50">
-  </a>
-  <br>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://your-nodejs-logo-url-here.com" alt="Node.js" width="50" height="50">
-  </a>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://your-mongodb-logo-url-here.com" alt="MongoDB" width="50" height="50">
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://your-python-logo-url-here.com" alt="Python" width="50" height="50">
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://your-git-logo-url-here.com" alt="Git" width="50" height="50">
-  </a>
+    <a href="https://www.w3.org/html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
+    </a>
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+    </a>
+    <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+    </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>
+    </a>
+    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark-light.svg" alt="express" width="60" height="60"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
+    </a>
+    <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+    </a>
+    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-light.svg" alt="nextjs" width="60" height="60"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+    </a>
 </p>
-
-## 🏢 Experience
-
-### Besent Technologies
-
-- Completed a Python training program focused on developing fundamental programming skills and practical application of Python language.
-- Gained hands-on experience in developing Python applications, working with libraries and frameworks, and implementing best practices.
 
 ## 🚀 Projects
 
@@ -70,6 +84,6 @@ I'm a Full Stack Developer based in India with a passion for creating web applic
 - Deployed the application to a test server.
 - URL LINK: [goals-app-frontend.onrender.com](https://goals-app-frontend.onrender.com)
 
-All of my projects, including those listed above, can be found on my GitHub repository.
+## 🙏 Thank You
 
-Thanks for visiting my GitHub profile! Feel free to connect with me on LinkedIn or explore my projects on GitHub. 😄
+Thanks for visiting my GitHub profile! I appreciate your time and interest. Feel free to connect with me on LinkedIn or explore my projects on GitHub. If you have any questions or want to collaborate, don't hesitate to reach out. 😄
