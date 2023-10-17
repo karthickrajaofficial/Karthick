@@ -10,12 +10,12 @@
 I'm a Full Stack Developer based in India with a passion for creating web applications and solving problems with code. 
 I have experience with both front-end and back-end technologies, and I'm always eager to learn and grow in this ever-evolving field.
 
-<p align="center">
+
   - 📫 How to reach me <br>
   - 📧 Email: [karthickrajaofficial1@gmail.com](mailto:karthickrajaofficial1@gmail.com) <br>
   - 📱 LinkedIn: [linkedin.com/in/karthickraja01](https://www.linkedin.com/in/karthickraja01) <br>
   - 🌐 GitHub: [github.com/karthickrajaofficial](https://github.com/karthickrajaofficial)
-</p>
+
 
 ## 🔧 Technical Skills
 
