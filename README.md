@@ -91,7 +91,7 @@ and faster upload times
 
 ###Modern Ui&UX Banking app
 
- •launched a dynamic and user-friendly credit card portal for banks using React.js and Tailwind CSS! 💳✨
+•launched a dynamic and user-friendly credit card portal for banks using React.js and Tailwind CSS! 💳✨
 🌐 Explore the seamless and intuitive frontend I developed, offering a modern and responsive interface for managing credit cards.
 🛠 Tech Stack:
 - *React.js*: Powering the frontend with its component-based architecture, ensuring a scalable and maintainable codebase.
