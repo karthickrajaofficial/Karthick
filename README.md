@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Threads clone**
+- 🔭 I’m currently working on ** Ecommerce website**
 
 - 🌱 I’m currently learning **MERN Stack, NEXTJS, etc**
 
@@ -79,6 +79,28 @@ I have experience with both front-end and back-end technologies, and I'm always 
 - Demonstrated skills in React, Node.js, Express.js, MongoDB, and user authentication.
 - Deployed the application to a test server.
 - URL LINK: [goals-app-frontend.onrender.com](https://goals-app-frontend.onrender.com)
+
+###Hotel-booking Web Application (MERN Stack)
+
+• Developed and implemented a highly secure Hotel Booking website using MERN stack, integrating JWT 
+authentication; increased online bookings by 40% and reduced fraudulent activities by 75%.
+• Implemented a responsive UI design with Tailwind CSS, boosting user engagement by 92% across devices
+• Streamlined image upload process by integrating Amazon S3, resulting in a 90% improvement in user experience 
+and faster upload times
+• Successfully deployed the website at [ https://karthick-booking-app.vercel.app ]
+
+###Modern Ui&UX Banking app
+
+ •launched a dynamic and user-friendly credit card portal for banks using React.js and Tailwind CSS! 💳✨
+🌐 Explore the seamless and intuitive frontend I developed, offering a modern and responsive interface for managing credit cards.
+🛠 Tech Stack:
+- *React.js*: Powering the frontend with its component-based architecture, ensuring a scalable and maintainable codebase.
+- *Tailwind CSS*: Streamlining the styling process, achieving a sleek design and improved development workflow.
+🔍 Key Features:
+- Intuitive user interface for effortless navigation.
+- Real-time updates for transaction tracking.
+- Responsive design for a seamless experience on various devices.
+• Successfully deployed the website at [ https://banking-app-1.netlify.app ]
 
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthickrajaofficial&show_icons=true&locale=en&layout=compact" alt="karthickrajaofficial" /></p>
