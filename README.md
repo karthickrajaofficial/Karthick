@@ -91,7 +91,7 @@ and faster upload times
 
 ###Modern Ui&UX Banking app
 
-•launched a dynamic and user-friendly credit card portal for banks using React.js and Tailwind CSS! 💳✨
+  •launched a dynamic and user-friendly credit card portal for banks using React.js and Tailwind CSS! 💳✨
 🌐 Explore the seamless and intuitive frontend I developed, offering a modern and responsive interface for managing credit cards.
 🛠 Tech Stack:
 - *React.js*: Powering the frontend with its component-based architecture, ensuring a scalable and maintainable codebase.
@@ -100,7 +100,8 @@ and faster upload times
 - Intuitive user interface for effortless navigation.
 - Real-time updates for transaction tracking.
 - Responsive design for a seamless experience on various devices.
-• Successfully deployed the website at [ https://banking-app-1.netlify.app ]
+• Successfully deployed the website at
+[ https://banking-app-1.netlify.app ]
 
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthickrajaofficial&show_icons=true&locale=en&layout=compact" alt="karthickrajaofficial" /></p>
