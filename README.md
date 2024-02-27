@@ -101,8 +101,7 @@ and faster upload times
 - Intuitive user interface for effortless navigation.
 - Real-time updates for transaction tracking.
 - Responsive design for a seamless experience on various devices.
-• Successfully deployed the website at
-
+• Successfully deployed the website at 
 [ https://banking-app-1.netlify.app ]
 
 
