@@ -99,7 +99,6 @@ and faster upload times
 - *Tailwind CSS*: Streamlining the styling process, achieving a sleek design and improved development workflow.
 🔍 Key Features:
 - Intuitive user interface for effortless navigation.
-- Real-time updates for transaction tracking.
 - Responsive design for a seamless experience on various devices.
 • Successfully deployed the website at <br>
 [ https://banking-app-1.netlify.app ]
