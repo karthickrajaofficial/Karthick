@@ -81,7 +81,7 @@ I have experience with both front-end and back-end technologies, and I'm always 
 - Deployed the application to a test server.
 - URL LINK: [goals-app-frontend.onrender.com](https://goals-app-frontend.onrender.com)
 
-###Hotel-booking Web Application (MERN Stack)
+### Hotel-booking Web Application (MERN Stack)
 
 • Developed and implemented a highly secure Hotel Booking website using MERN stack, integrating JWT 
 authentication; increased online bookings by 40% and reduced fraudulent activities by 75%.
@@ -90,7 +90,7 @@ authentication; increased online bookings by 40% and reduced fraudulent activiti
 and faster upload times
 • Successfully deployed the website at [ https://karthick-booking-app.vercel.app ]
 
-###Modern Ui&UX Banking app
+### Modern Ui&UX Banking app
 
   •launched a dynamic and user-friendly credit card portal for banks using React.js and Tailwind CSS! 💳✨
 🌐 Explore the seamless and intuitive frontend I developed, offering a modern and responsive interface for managing credit cards.
